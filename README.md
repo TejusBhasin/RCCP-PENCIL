@@ -1,5 +1,9 @@
 # ChEaP-ApPlE-PeNcil_wIth-BacKworDs-ComPATABiLIty
 
+<img width="2900" height="1588" alt="image" src="https://github.com/user-attachments/assets/de23644c-609e-43ae-9c18-7a7651da7b83" />
+<img width="2940" height="1608" alt="image" src="https://github.com/user-attachments/assets/6146145b-8d80-4671-b5e4-933438b1fdf5" />
+
+
 A cheap 3D printed "Apple Pencil" that doesn't actually use Apple Pencil electronics.
 
 ## What is this?
@@ -37,6 +41,7 @@ My idea is to use a piece of conductive metal to connect the part you're holding
            ↓
        iPad screen
 ```
+<img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/fc0ddc26-9359-40f5-87e3-f58383b93796" />
 
 There aren't any batteries or electronics inside it.
 
@@ -93,6 +98,7 @@ The biggest thing I learned was how capacitive touchscreens actually work.
 At first I was thinking about making something that somehow copied the signals from an Apple Pencil. After researching it, I realized that I could approach the problem from the other direction and just use the same basic principle as a passive stylus.
 
 I also went through a few CAD iterations while figuring out where the conductive material should go and how the candy compartment would work.
+<img width="550" height="330" alt="image" src="https://github.com/user-attachments/assets/17d1e2de-6929-4717-b3c0-db0a3f7a2e22" />
 
 ## Current Status
 
