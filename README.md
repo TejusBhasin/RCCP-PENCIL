@@ -6,6 +6,12 @@
 
 A cheap 3D printed "Apple Pencil" that doesn't actually use Apple Pencil electronics.
 
+| Item # | Description | Qty | Material/Type | Notes |
+| :--- | :--- | :---: | :--- | :--- |
+| 1 | 3D Printer | 1 | Any functional model | FDM printer capable of reaching PETG temperatures (~230°C–250°C) |
+| 2 | Filament Spool | 1 | PETG (Any Color) | Standard 1kg spool preferred |
+| 3 | [Optional] Bed Adhesive | 1 | Glue stick or Magigoo | Recommended to prevent PETG from bonding too tightly to glass beds |
+
 ## What is this?
 
 I wanted to make a stylus for an iPad that was as simple as possible.
